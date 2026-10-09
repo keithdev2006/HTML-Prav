@@ -1,0 +1,21 @@
+#menu-header {
+    color: green;
+    text-align: center;
+}
+
+.spicy {
+    color: red;
+    font-weight: bold;
+}
+
+.card {
+    background-color: lightgray;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#pro-plan {
+    background-color: gold;
+    border: 3px solid black;
+}
